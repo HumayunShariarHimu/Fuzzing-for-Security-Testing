@@ -2,14 +2,12 @@
 
 > A curated and organized collection of resources related to **Fuzzing-for-Security-Testing**.
 
-**Maintained by [Humayun Shariar Himu](https://github.com/HumayunShariarHimu)**
 
 # Fuzzing-for-Security-Testing
 > Learn fuzzing techniques for vulnerability discovery: AFL, libFuzzer, and custom fuzzers. Includes examples, tools, and tips for effective software testing.
 
 > [Fuzzing](https://en.wikipedia.org/wiki/Fuzzing) or fuzz testing is an automated software testing technique that involves providing invalid, unexpected, or random data as inputs to a computer program. The program is then monitored for exceptions such as crashes, failing built-in code assertions, or potential memory leaks. Typically, fuzzers are used to test programs that take structured inputs. 
 
-# Contact With Me:
 
 <div align="left">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="youtube logo"  />
@@ -24,7 +22,6 @@
   </a>
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="twitter logo"  />
   </a>
-</div>
 
 ## Contents
 
